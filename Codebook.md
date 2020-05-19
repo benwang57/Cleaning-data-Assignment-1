@@ -10,4 +10,4 @@ all_mean_std stores the columns with mean and standard deviation
 
 tiday_data stores a dataframe with meaningful column namesa and rownames
 
-final_data is a 180 row x 68 column table. with summarized mean 
+final_data is a 180 row x 68 column table. There are 30 subjects, each with 6 activities, composing 180 rows of observations. The means and standard deviation of each observation units are summarized in the dataframe. 
